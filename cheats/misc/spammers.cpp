@@ -267,94 +267,94 @@ void spammers::clan_tag_unlucky()
 				tag = crypt_str(" ");
 				break;
 			case 1:
-				tag = crypt_str("♣ ");
+				tag = crypt_str("| ");
 				break;
 			case 2:
-				tag = crypt_str("♣♣ ");
+				tag = crypt_str("|| ");
 				break;
 			case 3:
-				tag = crypt_str("♣U♣ ");
+				tag = crypt_str("|U| ");
 				break;
 			case 4:
-				tag = crypt_str("♣Un♣ ");
+				tag = crypt_str("|Un| ");
 				break;
 			case 5:
-				tag = crypt_str("♣Unl♣ ");
+				tag = crypt_str("|Unl| ");
 				break;
 			case 6:
-				tag = crypt_str("♣Unlu♣ ");
+				tag = crypt_str("|Unlu| ");
 				break;
 			case 7:
-				tag = crypt_str("♣Unluc♣ ");
+				tag = crypt_str("|Unluc| ");
 				break;
 			case 8:
-				tag = crypt_str("♣Unluck♣ ");
+				tag = crypt_str("|Unluck| ");
 				break;
 			case 9:
-				tag = crypt_str("♣Unlucky♣ ");
+				tag = crypt_str("|Unlucky| ");
 				break;
 			case 10:
-				tag = crypt_str("♣UnluckyC♣ ");
+				tag = crypt_str("|UnluckyC| ");
 				break;
 			case 11:
-				tag = crypt_str("♣UnluckyCh♣ ");
+				tag = crypt_str("|UnluckyCh| ");
 				break;
 			case 12:
-				tag = crypt_str("♣UnluckyCha♣ ");
+				tag = crypt_str("|UnluckyCha| ");
 				break;
 			case 13:
-				tag = crypt_str("♣UnluckyChar♣ ");
+				tag = crypt_str("|UnluckyChar| ");
 				break;
 			case 14:
-				tag = crypt_str("♣UnluckyCharm♣ ");
+				tag = crypt_str("|UnluckyCharm| ");
 				break;
 			case 15:
-				tag = crypt_str("♣UnluckyCharms♣ ");
+				tag = crypt_str("|UnluckyCharms| ");
 				break;
 			case 16:
-				tag = crypt_str("♣UnluckyCharms♣ ");
+				tag = crypt_str("|UnluckyCharms| ");
 				break;
 			case 17:
-				tag = crypt_str("♣UnluckyCharm♣ ");
+				tag = crypt_str("|UnluckyCharm| ");
 				break;
 			case 18:
-				tag = crypt_str("♣UnluckyChar♣ ");
+				tag = crypt_str("|UnluckyChar| ");
 				break;
 			case 19:
-				tag = crypt_str("♣UnluckyCha♣ ");
+				tag = crypt_str("|UnluckyCha| ");
 				break;
 			case 20:
-				tag = crypt_str("♣UnluckyCh♣ ");
+				tag = crypt_str("|UnluckyCh| ");
 				break;
 			case 21:
-				tag = crypt_str("♣UnluckyC♣ ");
+				tag = crypt_str("|UnluckyC| ");
 				break;
 			case 22:
-				tag = crypt_str("♣Unlucky♣ ");
+				tag = crypt_str("|Unlucky| ");
 				break;
 			case 23:
-				tag = crypt_str("♣Unluck♣ ");
+				tag = crypt_str("|Unluck| ");
 				break;
 			case 24:
-				tag = crypt_str("♣Unluc♣ ");
+				tag = crypt_str("|Unluc| ");
 				break;
 			case 25:
-				tag = crypt_str("♣Unlu♣ ");
+				tag = crypt_str("|Unlu| ");
 				break;
 			case 26:
-				tag = crypt_str("♣Unl♣ ");
+				tag = crypt_str("|Unl| ");
 				break;
 			case 27:
-				tag = crypt_str("♣Un♣ ");
+				tag = crypt_str("|Un| ");
 				break;
 			case 28:
-				tag = crypt_str("♣U♣ ");
+				tag = crypt_str("|U| ");
 				break;
 			case 29:
-				tag = crypt_str("♣♣ ");
+				tag = crypt_str("|| ");
 				break;
 			case 30:
-				tag = crypt_str("♣ ");
+				tag = crypt_str("| ");
 				break;
 			case 31:
 				tag = crypt_str(" ");

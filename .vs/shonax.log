@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(495,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(496,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  spammers.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  6 of 21026 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    71 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+Lua.lib(lapi.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lapi.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lauxlib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lauxlib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lbaselib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lbaselib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lcode.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lcode.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lcorolib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lcorolib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lctype.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lctype.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(ldblib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(ldblib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(ldebug.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(ldebug.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(ldo.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(ldo.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(ldump.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(ldump.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lfunc.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lfunc.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lgc.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lgc.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(linit.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(linit.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(liolib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(liolib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(llex.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(llex.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lmathlib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lmathlib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lmem.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lmem.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(loadlib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(loadlib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lobject.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lobject.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lopcodes.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lopcodes.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(loslib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(loslib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lparser.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lparser.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lstate.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lstate.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lstring.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lstring.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lstrlib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lstrlib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(ltable.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(ltable.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(ltablib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(ltablib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(ltm.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(ltm.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lundump.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lundump.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lutf8lib.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lutf8lib.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lvm.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lvm.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+Lua.lib(lzio.obj) : warning LNK4099: PDB 'Lua.pdb' was not found with 'Lua.lib(lzio.obj)' or at 'C:\Users\gabbe\Documents\GitHub\PasteSense\release\Lua.pdb'; linking object as if no debug info
+  shonax.vcxproj -> C:\Users\gabbe\Documents\GitHub\PasteSense\release\legendware.dll
